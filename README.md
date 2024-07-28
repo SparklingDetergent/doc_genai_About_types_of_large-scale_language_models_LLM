@@ -67,8 +67,7 @@ graph LR
 * 2018年: BERT, GPT-1などの登場
 * 2019年: GPT-2の登場
 * 2020年: GPT-3の登場
-* 2021年: ChatGPTの公開
-* 2022年: DALL-E 2, Imagenなどの画像生成AIが登場
+* 2022年: ChatGPTの公開, DALL-E 2, Imagenなどの画像生成AIが登場
 * 2023年: GPT-4の公開
 
 LLMは日々進化しており、今後も新しいモデルや技術が登場することが予想されます。
@@ -80,8 +79,7 @@ timeline
     2018: BERT, GPT-1登場
     2019: GPT-2登場
     2020: GPT-3登場
-    2021: ChatGPT公開
-    2022: DALL-E 2, Imagen登場
+    2022: ChatGPT公開, DALL-E 2, Imagen登場
     2023: GPT-4公開
 ```
 
